@@ -8,7 +8,7 @@ Guide to use c++ will be availabe shorlty.
 https://raw.githubusercontent.com/PX4/Devguide/master/build_scripts/ubuntu_sim_ros_gazebo.sh
 2) Then run this command or follow http://dev.px4.io/en/setup/dev_env_linux.html#gazebo-with-ros  
 '''source ubuntu_sim_ros_gazebo.sh'''
-2) Follow this Link, https://akshayk07.weebly.com/offboard-control-of-pixhawk.html it's a really helpful link and make I really easy to get your model flying.
+2) Follow this Link, https://akshayk07.weebly.com/offboard-control-of-pixhawk.html it's a really helpful link and makes it really easy to get your model flying.
 3) It is up to you which aircraft you want to use. If you feel like changing the aircraft/vehilce follow this link http://dev.px4.io/en/simulation/gazebo.html
 4) To obtain the ip for the system go to the network setting in your ubuntu system.
 
